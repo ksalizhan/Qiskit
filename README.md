@@ -10,3 +10,5 @@ Implementing quantum algorithms.
 
 P.S. Quantum computers, unlike classical computers, do not produce deterministic outcomes. They provide results in the form of superposition of states in a probabilistic manner and the results collapse to a certain outcome only once you do measurements. 
 Job of algorithms is to utilize this property to make it advantageous in operating certain tasks compared to using classical computers.
+
+Launching a Jupyterlab kernel on Windows: https://jupyter.org/install
